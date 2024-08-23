@@ -22,12 +22,13 @@ Here’s a list of projects available in this repository:
 2. **Project 2: [Project Name]**
    - **Description:** A brief description of the project, what it demonstrates, and any special features.
    - **Technologies Used:** HTML, CSS, JavaScript (if applicable)
-   - **Preview:** ![Screenshot](link-to-screenshot) *(Replace with actual image or remove)*
+   - **Preview:** 
+
 
 3. **Project 3: [Project Name]**
    - **Description:** A brief description of the project, what it demonstrates, and any special features.
    - **Technologies Used:** HTML, CSS, JavaScript (if applicable)
-   - **Preview:** ![Screenshot](link-to-screenshot) *(Replace with actual image or remove)*
+   - **Preview:** 
 
 *(Add more projects as needed)*
 

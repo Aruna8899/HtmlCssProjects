@@ -14,13 +14,13 @@ Welcome to my repository of HTML and CSS projects! This repository contains a co
 
 Here’s a list of projects available in this repository:
 
-1. **Project 1: [Project Name]**
-   - **Description:** A brief description of the project, what it demonstrates, and any special features.
+1. **Project 1: [Basic Page]**
+   - **Description:** Basic APJ Abdul kalam Page with HTML & CSS.
    - **Technologies Used:** HTML, CSS, JavaScript (if applicable)
    - **Preview:** ![Screenshot](link-to-screenshot) *(Replace with actual image or remove)*
 
-2. **Project 2: [Project Name]**
-   - **Description:** A brief description of the project, what it demonstrates, and any special features.
+2. **Project 2: [Html CSS Basic Input Form]
+   - **Description:** Created the Input form with the various input fields such as Name, DOB, File uplopader, Address portion and etc.
    - **Technologies Used:** HTML, CSS, JavaScript (if applicable)
    - **Preview:** 
 
